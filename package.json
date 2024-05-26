@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "pre-push": "ng build --aot true",
-    "prepare": "husky"
+    "pre-commit": "husky"
   },
   "private": true,
   "dependencies": {
